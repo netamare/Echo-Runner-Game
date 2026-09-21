@@ -1,0 +1,1 @@
+{"version":"7.0.2","root":["./src/app.tsx","./src/main.tsx"],"packageJsons":["./node_modules/react-dom/package.json","./node_modules/react/package.json","./package.json"],"missingPackageJsons":["./node_modules/react-dom/client/package.json","./node_modules/react/jsx-runtime/package.json"],"semanticErrors":true}
